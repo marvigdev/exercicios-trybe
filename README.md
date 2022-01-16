@@ -30,3 +30,4 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 4.1 - Introdução - JavaScript
 - [x] 4.1 - JavaScript - Primeiros passos
 - [x] 4.2 - JavaScript - Array e loop For
+- [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
