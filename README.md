@@ -1,6 +1,6 @@
 # Trybe - Exercícios
 
-Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/in/marvigdev/)__ durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
+Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/in/marvigdev/)__ durante minha trajetória na [Trybe](https://www.betrybe.com/) :rocket:
 
 >"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
@@ -24,3 +24,8 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 3.3 - HTML & CSS - Seletores e posicionamento
 - [x] 3.4 - HTML Semântico
 - [x] 3.5 - Projeto - Lessons Learned
+
+
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação
+- [x] 4.1 - Introdução - JavaScript
+- [x] 4.1 - JavaScript - Primeiros passos
