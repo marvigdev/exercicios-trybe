@@ -35,3 +35,7 @@ Contém todas as atividades desenvolvidas por **[mim](https://www.linkedin.com/i
 - [x] 4.2 - JavaScript - Array e loop For
 - [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [x] 4.4 - JavaScript - Objetos e funções
+
+##### Bloco 8: Higher Order Functions do JavaScript ES6
+
+- [x] 8.1 - Introdução a Higher Order Functions
