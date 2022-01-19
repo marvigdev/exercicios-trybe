@@ -30,7 +30,7 @@ const RIGHT_ANSWERS = ['A', 'C', 'B', 'D', 'A', 'A', 'D', 'A', 'D', 'C'];
 const STUDENT_ANSWERS = ['A', 'N.A', 'B', 'D', 'A', 'C', 'N.A', 'A', 'D', 'B'];
 ```
 
-# Bônus I
+# Bônus
 
 ## Nestes exercícios você irá implementar HOFs que simulam um turno de batalha em um jogo. Você irá criar funções que calculam dano, atualizam status, e ao final, retornam os resultados da rodada.
 
@@ -76,8 +76,6 @@ const battleMembers = { mage, warrior, dragon };
 
 - O dano será um número aleatório entre o valor do atributo `intelligence` (dano mínimo) e o valor de `intelligence` \* `2` (dano máximo).
 - A `mana` consumida por turno é 15. Além disto a função deve ter uma condicional, caso o mago tenha menos de 15 de mana o valor de dano recebe uma mensagem (Ex: "Não possui mana suficiente") e a mana gasta é 0.
-
-# Bônus II
 
 ## Agora que você já possui a implementação das funções relativas aos três exercícios anteriores, passe-as como parâmetro para outras funções que irão compor um objeto `gameActions`. O objeto será composto por ações do jogo e cada ação é por denifição uma HOF , pois neste caso, são funções que recebem como parâmetro outra função.
 
