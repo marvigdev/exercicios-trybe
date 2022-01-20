@@ -1,0 +1,12 @@
+{
+  "name": "03-map-e-filter",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
