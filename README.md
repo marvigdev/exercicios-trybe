@@ -41,3 +41,4 @@ Contém todas as atividades desenvolvidas por **[mim](https://www.linkedin.com/i
 - [x] 8.1 - Introdução a Higher Order Functions
 - [x] 8.2 - forEach, find, some, every, sort
 - [x] 8.3 - map e filter
+- [x] 8.4 - reduce
